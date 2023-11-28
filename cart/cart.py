@@ -1,1 +1,1 @@
-print("this perform logical operations in cart")
+print("God lsidlkajflkoves us all")
